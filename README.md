@@ -1,6 +1,6 @@
 # Forkio
 ### The project Forkio has been performed in team of 2 persons.
-###Stack of technologies:
+### Stack of technologies:
 - SCSS, BEM, Adaptive design
 - JS, NPM
 - GULP

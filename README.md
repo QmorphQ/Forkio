@@ -4,5 +4,5 @@
 - SCSS, BEM, Adaptive design
 - JS, NPM
 - GULP
-### You can check the [DEMO](https://forkio-sage.vercel.app/) or download code locally and via the command line prompt run `npm run build` and `npm run preview` from the root directory.
+### You can check the [DEMO](https://forkio.onrender.com/) or download code locally and via the command line prompt run `npm run build` and `npm run preview` from the root directory.
 <hr>
